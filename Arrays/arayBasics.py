@@ -9,3 +9,6 @@ print(a)
 sum=0
 [sum := sum+i for i in a]
 print(sum)
+
+
+# test comment
