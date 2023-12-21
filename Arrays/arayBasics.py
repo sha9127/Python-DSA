@@ -5,3 +5,7 @@ for i in a :
 
 array = [i**2 for i in a]
 print(a)
+
+sum=0
+[sum := sum+i for i in a]
+print(sum)
